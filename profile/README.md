@@ -6,24 +6,6 @@
 
 > **Where Bits Meet Atoms** - Pioneering the future of intelligent connected systems through cutting-edge research in IoT, Artificial Intelligence, and Machine Learning.
 
----
-
-## About Us
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Physical World] --> B[Sensors & IoT]
-    B --> C[Edge Computing]
-    C --> D[AI/ML Models]
-    D --> E[Cyber Systems]
-    E --> F[Actuators & Control]
-    F --> A
-```
-
-</div>
-
 The **Cyber Physical Laboratory** is an interdisciplinary research hub dedicated to advancing the frontiers of intelligent systems. We bridge the gap between digital intelligence and physical reality, creating solutions that transform industries and enhance human experiences.
 
 ### Core Focus Areas
@@ -71,7 +53,7 @@ class SmartSecurity:
 - Reinforcement learning for path optimization
 - Blockchain for secure transactions
 
-### 📈 Project Statistics
+### Project Statistics
 
 <div align="center">
 
